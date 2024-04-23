@@ -3,7 +3,7 @@ import Image from "next/image"
 
 const Feactures = () => {
   return (
-    <section className="border-2 border-red-500 flex-col flexCenter overflow-hidden bg-feature-bg bg-center bg-no-repeat py-24">
+    <section className=" flex-col flexCenter overflow-hidden bg-feature-bg bg-center bg-no-repeat py-24">
       <div className="max-container padding-container relative flex w-full justify-end">
         <div className="flex flex-1 ">
           <Image
